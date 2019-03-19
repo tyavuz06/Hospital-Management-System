@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5D9A013F-554F-4F77-92F0-D49A34BA5BCE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>UnitOfWork</RootNamespace>
+    <AssemblyName>UnitOfWork</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UnitOfWorkDLL2, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\UnitOfWorkDLL2\UnitOfWorkDLL2\bin\Debug\UnitOfWorkDLL2.exe</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connection.cs" />
+    <Compile Include="Forms\AddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AddUser.Designer.cs">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Enums.cs" />
+    <Compile Include="Forms\Annual_Leave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Annual_Leave.Designer.cs">
+      <DependentUpon>Annual_Leave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DocPatients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DocPatients.Designer.cs">
+      <DependentUpon>DocPatients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserLogin.Designer.cs">
+      <DependentUpon>UserLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AnnualLeave.cs" />
+    <Compile Include="Models\Appoinment.cs" />
+    <Compile Include="Models\Doctor.cs" />
+    <Compile Include="Repositories\AppoinmentRepository.cs" />
+    <Compile Include="Repositories\DoctorRepository.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Patient.cs" />
+    <Compile Include="Repositories\PatientRepository.cs" />
+    <Compile Include="Models\Polyclinic.cs" />
+    <Compile Include="Repositories\PolyclinicRepository.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Models\Nurse.cs" />
+    <Compile Include="Models\Unit.cs" />
+    <Compile Include="Repositories\NurseRepository.cs" />
+    <Compile Include="Repositories\UnitRepository.cs" />
+    <Compile Include="Models\User.cs" />
+    <Compile Include="Forms\UserList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserList.Designer.cs">
+      <DependentUpon>UserList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Repositories\UserReposity.cs" />
+    <EmbeddedResource Include="Forms\AddUser.resx">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Annual_Leave.resx">
+      <DependentUpon>Annual_Leave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DocPatients.resx">
+      <DependentUpon>DocPatients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserLogin.resx">
+      <DependentUpon>UserLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Forms\UserList.resx">
+      <DependentUpon>UserList.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icons-Land-Medical-People-Doctor-Male.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icons-Land-Medical-People-Doctor-Male %281%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bulleted-List-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\People-Doctor-Male-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Medical-Nurse-Female-Light-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\People-Patient-Male-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\42491-hospital-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Admin-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hospital-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stethoscope-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\1404814219.png" />
+    <None Include="Resources\ONZFBB01.jpg" />
+    <None Include="Resources\PE_Resource_Feature.jpg" />
+    <None Include="Resources\stock-vector-hand-with-pen-mark-calendar-vector-flat-illustration-345128279.jpg" />
+    <None Include="Resources\stock-vector-march-calendar-icon-vector-illustration-flat-style-date-day-of-month-sunday-monday-tuesday-376639249.jpg" />
+    <None Include="Resources\ONZFBB0.jpg" />
+    <None Include="Resources\14048142191.png" />
+    <None Include="Resources\173.jpg" />
+    <None Include="Resources\495076-PHE66L-167.jpg" />
+    <None Include="Resources\18645845275_d7b110a450_o.jpg" />
+    <Content Include="Resources\Actions-list-add-icon.png" />
+    <None Include="Resources\icons8-leave-1000.png" />
+    <None Include="Resources\f7b9a2e85187dbcc6537c3cde2080857.jpg" />
+    <None Include="Resources\close-button-png-30241.png" />
+    <Content Include="Resources\icons8-leave-100.png" />
+    <Content Include="Resources\Numbering-List-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

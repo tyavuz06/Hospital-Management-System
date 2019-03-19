@@ -1,0 +1,65 @@
+D:\Projects\7.Hafta\12_01_2019\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWork.exe.config
+D:\Projects\7.Hafta\12_01_2019\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWork.exe
+D:\Projects\7.Hafta\12_01_2019\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWork.pdb
+D:\Projects\7.Hafta\12_01_2019\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.csprojAssemblyReference.cache
+D:\Projects\7.Hafta\12_01_2019\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.AddUser.resources
+D:\Projects\7.Hafta\12_01_2019\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.Form1.resources
+D:\Projects\7.Hafta\12_01_2019\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.Properties.Resources.resources
+D:\Projects\7.Hafta\12_01_2019\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.UserList.resources
+D:\Projects\7.Hafta\12_01_2019\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.csproj.GenerateResource.cache
+D:\Projects\7.Hafta\12_01_2019\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.csproj.CoreCompileInputs.cache
+D:\Projects\7.Hafta\12_01_2019\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.exe
+D:\Projects\7.Hafta\12_01_2019\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.pdb
+C:\Users\turgu\Desktop\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWork.exe.config
+C:\Users\turgu\Desktop\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWork.exe
+C:\Users\turgu\Desktop\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWork.pdb
+C:\Users\turgu\Desktop\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.AddUser.resources
+C:\Users\turgu\Desktop\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.Form1.resources
+C:\Users\turgu\Desktop\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.Properties.Resources.resources
+C:\Users\turgu\Desktop\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.UserList.resources
+C:\Users\turgu\Desktop\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.csproj.GenerateResource.cache
+C:\Users\turgu\Desktop\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.csproj.CoreCompileInputs.cache
+C:\Users\turgu\Desktop\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.exe
+C:\Users\turgu\Desktop\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.pdb
+C:\Users\turgu\Desktop\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWorkDLL2.exe
+C:\Users\turgu\Desktop\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWorkDLL2.pdb
+C:\Users\turgu\Desktop\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWorkDLL2.exe.config
+C:\Users\turgu\Desktop\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.csproj.CopyComplete
+E:\Yeni klasör (2)\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.csprojResolveAssemblyReference.cache
+E:\Yeni klasör (2)\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.AddUser.resources
+E:\Yeni klasör (2)\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.Form1.resources
+E:\Yeni klasör (2)\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.Properties.Resources.resources
+E:\Yeni klasör (2)\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.UserList.resources
+E:\Yeni klasör (2)\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.csproj.GenerateResource.cache
+E:\Yeni klasör (2)\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.csproj.CoreCompileInputs.cache
+E:\Yeni klasör (2)\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.exe
+E:\Yeni klasör (2)\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.pdb
+E:\Yeni klasör (2)\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWork.exe.config
+E:\Yeni klasör (2)\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWork.exe
+E:\Yeni klasör (2)\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWork.pdb
+E:\Yeni klasör (2)\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWorkDLL2.exe
+E:\Yeni klasör (2)\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWorkDLL2.pdb
+E:\Yeni klasör (2)\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWorkDLL2.exe.config
+E:\Yeni klasör (2)\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.csproj.CopyComplete
+C:\Users\turgu\Desktop\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.csprojAssemblyReference.cache
+C:\Users\turgu\Desktop\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.Forms.Annual_Leave.resources
+C:\Users\turgu\Desktop\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.Forms.UserLogin.resources
+C:\Users\turgu\Desktop\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.Forms.DocPatients.resources
+E:\ProjeSon\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWork.exe.config
+E:\ProjeSon\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWork.exe
+E:\ProjeSon\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWork.pdb
+E:\ProjeSon\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWorkDLL2.pdb
+E:\ProjeSon\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWorkDLL2.exe.config
+E:\ProjeSon\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.csprojResolveAssemblyReference.cache
+E:\ProjeSon\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.AddUser.resources
+E:\ProjeSon\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.Form1.resources
+E:\ProjeSon\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.Forms.Annual_Leave.resources
+E:\ProjeSon\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.Forms.DocPatients.resources
+E:\ProjeSon\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.Forms.UserLogin.resources
+E:\ProjeSon\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.Properties.Resources.resources
+E:\ProjeSon\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.UserList.resources
+E:\ProjeSon\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.csproj.GenerateResource.cache
+E:\ProjeSon\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.csproj.CoreCompileInputs.cache
+E:\ProjeSon\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.csproj.CopyComplete
+E:\ProjeSon\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.exe
+E:\ProjeSon\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.pdb
